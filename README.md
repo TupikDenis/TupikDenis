@@ -22,6 +22,7 @@
       <img src="https://img.shields.io/badge/Telegram-green?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=TupikDenis&style=flat-square&color=blue" alt=""/>
 </div> 
 
 ## О себе
@@ -41,25 +42,86 @@ At that moment I'm learning Java Spring, ReactJs. In free time I'm coding Golang
 --- 
 -->
 
-**Дата Рождения:** 25.10.2001 17:40
+- **Дата Рождения:** 25.10.2001 17:40
 
-**Родной город:** Брест
+- **Родной город:** Брест
 
-**Место учёбы**: Брестский государственный технический университет (2019-2023). *Учусь на 4-ом курсе.*
+- **Место учёбы:** Брестский государственный технический университет (2019-2023). *Учусь на 4-ом курсе.*
 
-**Напраление:** Веб-технологии (fullstack, но всё же больше предпочитаю backend).
+- **Напраление:** Веб-технологии (fullstack, но всё же больше предпочитаю backend).
 
 В данный момент изучаю Java Spring, ReactJs. В свободное время пишу на Golang.
 
-В данный момент не работаю, однако в активном поиске. Ищу работу в Минске.
+Не работаю, однако в активном поиске (желательно Минск).
+
+### *Дополнительные сведения*
+
+- **Семейное положение:** холост
+
+- **Водительские права:** B, BE
+
+- **Готовность к переезду:** до конца 2022 года нежелательно
 
 # Проекты
 
 | № | Название проекта | Краткое описание | Для чего выполнялось? | Стек | Ссылка |
 |---------|---------|---------|---------|---------|---------|
-| 1 | **Гандбольные соревнования** | *Создание гандбольных турниров по круговой системе* | Курсовая работа | HTML, CSS, PHP | [Репозиторий](https://github.com/TupikDenis/handball-tournament)|
-| 2 | **Чек товаров** | *Формирование чека товаров согласно пользовательскому вводу* | Тестовое задание для компании Clevertec | Java | [Репозиторий](https://github.com/TupikDenis/test-task-for-clevertec)|
-| 3 | **Сайт для YouTube- канала DenChess** | *Формирование чека товаров согласно пользовательскому вводу* | Курсовая работа | Java | [Репозиторий](https://github.com/TupikDenis/test-task-for-clevertec)|
+| 1 | **Гандбольные соревнования** | *Создание гандбольных турниров по круговой системе* | Курсовая работа | HTML, CSS, PHP 7 | [Репозиторий](https://github.com/TupikDenis/handball-tournament)|
+| 2 | **Чек товаров** | *Формирование чека товаров согласно пользовательскому вводу* | Тестовое задание для компании Clevertec | Java 16 | [Репозиторий](https://github.com/TupikDenis/test-task-for-clevertec)|
+| 3 | **Сайт для YouTube- канала DenChess** | *Формирование чека товаров согласно пользовательскому вводу* | Курсовая работа | HTML, CSS, Bootstrap, JavaScript, jQuery, Golang | [Репозиторий](https://github.com/TupikDenis/test-task-for-clevertec)|
+| 4 | **Онлайн-библиотека** | *Возможность чтения/добавлния книг. При чтении можно твыбрать светлую/тёмную тему* | Курсовая работа (не для себя!) |  HTML, CSS, Golang | [Репозиторий](https://github.com/TupikDenis/online-library)|
+| 5 | **Общий зачёт кубка YouTube-канала DenChess** | *Формирование общего зачёта кубка YouTube-канала DenChess на основе сыгранных этапов* | Для YT-канала DenChess | HTML, CSS, Golang | [Репозиторий](https://github.com/TupikDenis/denchess-cup-total-score)|
+| 6 | **Простое веб-приложение** | *CRUD-приложение (протестировано Postman)* | Тестовое задание для компании Godel Technologies | Java 8, Maven, Spring Boot, PostreSql | [Репозиторий](https://github.com/TupikDenis/godel-task)|
 
-### :fire: Статистика :
+# :hammer_and_wrench: Полный стек :
+### ЯП (сортированы по убыванию по частоте использования)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
+
+### Прочие языки / языки разметки и стилей
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+
+### Фреймворки/библиотеки
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+</div>
+
+### Базы данных
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostreSQL"  alt="PostreSQL" width="40" height="40"/>&nbsp;
+</div>
+
+### Прочие технологии
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;-->
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;-->
+</div>
+
+### :fire: Статистика
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TupikDenis&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TupikDenis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+***ПРОСЬБА НЕ ОБРАЩАТЬ ВНИМАНИЕ НА ПРЕОБЛАДАНИЕ JS!!!***
