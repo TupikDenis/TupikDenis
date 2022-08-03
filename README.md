@@ -68,7 +68,7 @@ At that moment I'm learning Java Spring, ReactJs. In free time I'm coding Golang
 |---------|---------|---------|---------|---------|---------|
 | 1 | **Гандбольные соревнования** | *Создание гандбольных турниров по круговой системе* | Курсовая работа | HTML, CSS, PHP 7 | [Репозиторий](https://github.com/TupikDenis/handball-tournament)|
 | 2 | **Чек товаров** | *Формирование чека товаров согласно пользовательскому вводу* | Тестовое задание для компании Clevertec | Java 16 | [Репозиторий](https://github.com/TupikDenis/test-task-for-clevertec)|
-| 3 | **Сайт для YouTube- канала DenChess** | *Формирование чека товаров согласно пользовательскому вводу* | Курсовая работа | HTML, CSS, Bootstrap, JavaScript, jQuery, Golang | [Репозиторий](https://github.com/TupikDenis/test-task-for-clevertec)|
+| 3 | **Сайт для YouTube-канала DenChess** | *Формирование чека товаров согласно пользовательскому вводу* | Курсовая работа | HTML, CSS, Bootstrap, JavaScript, jQuery, Golang | [Репозиторий](https://github.com/TupikDenis/denchess-site)|
 | 4 | **Онлайн-библиотека** | *Возможность чтения/добавлния книг. При чтении можно твыбрать светлую/тёмную тему* | Курсовая работа (не для себя!) |  HTML, CSS, Golang | [Репозиторий](https://github.com/TupikDenis/online-library)|
 | 5 | **Общий зачёт кубка YouTube-канала DenChess** | *Формирование общего зачёта кубка YouTube-канала DenChess на основе сыгранных этапов* | Для YT-канала DenChess | HTML, CSS, Golang | [Репозиторий](https://github.com/TupikDenis/denchess-cup-total-score)|
 | 6 | **Простое веб-приложение** | *CRUD-приложение (протестировано Postman)* | Тестовое задание для компании Godel Technologies | Java 8, Maven, Spring Boot, PostreSql | [Репозиторий](https://github.com/TupikDenis/godel-task)|
