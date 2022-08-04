@@ -118,10 +118,10 @@ At that moment I'm learning Java Spring, ReactJs. In free time I'm coding Golang
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;-->
 </div>
 
-### :fire: Статистика
+<!--### :fire: Статистика
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TupikDenis&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TupikDenis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-***ПРОСЬБА НЕ ОБРАЩАТЬ ВНИМАНИЕ НА ПРЕОБЛАДАНИЕ JS!!!***
+***ПРОСЬБА НЕ ОБРАЩАТЬ ВНИМАНИЕ НА ПРЕОБЛАДАНИЕ JS!!!***-->
