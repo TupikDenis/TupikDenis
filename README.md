@@ -79,7 +79,8 @@ At that moment I'm learning Java Spring, ReactJs. In free time I'm coding Golang
 | № | Название лабораторной работы | Предмет | Стек | Ссылка |
 |---------|---------|---------|---------|---------|
 | 1 | **Разработка БД  с помощью JDBC (консоль)** | Современные платформы программирования | Java, PostgreSql | [Репозиторий](https://github.com/TupikDenis/java-crud-console)|
-| 2 | **Разработка БД  с помощью JDBC (настольное)** | Современные платформы программирования | Java, PostgreSql | [Репозиторий](https://github.com/TupikDenis/java-crud-gui)|
+| 2 | **Разработка БД  с помощью JDBC (оконное)** | Современные платформы программирования | Java, PostgreSql | [Репозиторий](https://github.com/TupikDenis/java-crud-gui)|
+| 3 | **Разработка оконного клиент-серверного приложения на Java с использованием сокетов** | Современные платформы программирования | Java | [Репозиторий](https://github.com/TupikDenis/bulls-cows)|
 
 # :hammer_and_wrench: Полный стек :
 ### ЯП (сортированы по убыванию по частоте использования)
