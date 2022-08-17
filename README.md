@@ -48,7 +48,7 @@ At that moment I'm learning Java Spring, ReactJs. In free time I'm coding Golang
 
 - **Место учёбы:** Брестский государственный технический университет (2019-2023). *Учусь на 4-ом курсе.*
 
-- **Напраление:** Веб-технологии (fullstack, но всё же больше предпочитаю backend).
+- **Направление:** Веб-технологии (fullstack, но всё же больше предпочитаю backend).
 
 В данный момент изучаю Java Spring, ReactJs. В свободное время пишу на Golang.
 
