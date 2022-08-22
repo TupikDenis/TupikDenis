@@ -52,6 +52,8 @@ At that moment I'm learning Java Spring, ReactJs. In free time I'm coding Golang
 
 В данный момент изучаю Java Spring, ReactJs. В свободное время пишу на Golang.
 
+Ссылка на резюме [Junior Java Developer](https://rxresu.me/tdenis.20012510/junior)
+
 Не работаю, однако в активном поиске (желательно Минск).
 
 ### *Дополнительные сведения*
