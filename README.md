@@ -61,8 +61,8 @@ Open to work (ready for relocate)
 |---------|---------|---------|---------|---------|
 | 1 | **DB Development with JDBC (Console)** | Modern programming platforms | Java, PostgreSql | [Repository](https://github.com/TupikDenis/java-crud-console)|
 | 2 | **DB Development with JDBC (Window)** | Modern programming platforms | Java, PostgreSql | [Repository](https://github.com/TupikDenis/java-crud-gui)|
-| 3 | **Development of a windowed client-server application in Java (sockets)** | Modern programming platforms | Java | [Repository] (https://github.com/TupikDenis/bulls-cows)|
-| 3 | **Android apps** | Development of software for mobile platforms | Java | [Repository](https://github.com/TupikDenis/rpodmp)|
+| 3 | **Development of a windowed client-server application in Java (sockets)** | Modern programming platforms | Java | [Repository](https://github.com/TupikDenis/bulls-cows) |
+| 4 | **Android apps** | Development of software for mobile platforms | Java | [Repository](https://github.com/TupikDenis/rpodmp) |
 
 # :hammer_and_wrench: Full technology stack:
 ### Languages
