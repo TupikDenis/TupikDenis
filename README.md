@@ -51,7 +51,7 @@ Open to work (ready for relocate)
 | 2 | **Check of goods** | *Formation of goods receipt according to user input* | Test task for Clevertec | Java 16 | [Repository](https://github.com/TupikDenis/test-task-for-clevertec)|
 | 3 | **Website for DenChess YouTube channel** | *News site of YouTube-channel DenChess* | Coursework | HTML, CSS, Bootstrap, JavaScript, jQuery, Golang, MySql | [Repository](https://github.com/TupikDenis/denchess-site)|
 | 4 | **Online library** | *Ability to read / add books. When reading, you can choose a light/dark theme* | Coursework (not my!) |  HTML, CSS, Golang, MySql | [Repository](https://github.com/TupikDenis/online-library)|
-| 5 | **DenChess YouTube Cup Overall Score** | *Formation of the overall standings of the cup of the DenChess YouTube channel based on the stages played* | For DenChess YouTube channel | HTML, CSS, Golang, MySql | [Repository](https://github.com/TupikDenis/denchess-cup-total-score)|
+| 5 | **DenChess YouTube Cup Overall Score** | *Formation of the overall standings of the cup of the DenChess YouTube channel based on the stages played* | For DenChess YouTube channel | HTML, CSS, Golang, MySql | [Repository](https://github.com/TupikDenis/denchess-cup-total-score) |
 | 6 | **Simple WEB application** | *CRUD-application (tested by Postman)* | Test task for Godel Technologies | Java 8, Maven, Spring Boot, PostreSql | [Repository](https://github.com/TupikDenis/godel-task)|
 
 
