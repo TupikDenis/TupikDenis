@@ -39,7 +39,7 @@
 
 At that moment I'm learning Java Spring, ReactJs. In free time I'm coding Golang.
 
-Link to my resume ["Junior Java Developer"](https://drive.google.com/file/d/1W01MjjeC53auEhHJ4AdGJm6SrWAgCVTq/view)
+<!--Link to my resume ["Junior Java Developer"](https://drive.google.com/file/d/1W01MjjeC53auEhHJ4AdGJm6SrWAgCVTq/view)-->
 
 Open to work (ready for relocate)
 
@@ -54,6 +54,7 @@ Open to work (ready for relocate)
 | 5 | **DenChess YouTube Cup Overall Score** | *Formation of the overall standings of the cup of the DenChess YouTube channel based on the stages played* | For DenChess YouTube channel | HTML, CSS, Golang, MySql | [Repository](https://github.com/TupikDenis/denchess-cup-total-score) |
 | 6 | **Simple WEB application** | *CRUD-application (tested by Postman)* | Test task for Godel Technologies | Java 8, Maven, Spring Boot, PostreSql | [Repository](https://github.com/TupikDenis/godel-task)|
 | 7 | **AviaSales application** | *CRUD-application* | (not for me!) | HTML, CSS, Bootstrap, JavaScript, jQuery, Golang, PostreSql | [Repository](https://github.com/TupikDenis/aviasales)|
+| 8 | **Chess tournaments** | *CRUD-application (tested by Postman) with Swiss and Robin Round algorithm* | Diploma (backend) | Java 11, Spring, Spring MVC, Spring REST, Spring Boot, Spring JPA, PostgreSql | [Repository](https://github.com/TupikDenis/swiss-backend)|
 
 
 # Laboratory works
