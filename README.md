@@ -27,19 +27,21 @@
 
 ## About me
 
-**Birthday:** 25.10.2001 17:40
+**Birthday:** 25.10.2001
 
 **Native city:** Brest
 
-**Place of study**: Brest state technical university (2019-2023). *I'm a 4th year student.*
+**Place of study**: Brest state technical university (2019-2023).
+
+**Current place of work**: College of business and law
 
 **Direction:** Web technologies (fullstack, but I prefer backend).
 
 **English:** B1 (intermediate).
 
-At that moment I'm learning Java Spring, ReactJs. In free time I'm coding Golang.
+At that moment I'm learning Java (Spring). In free time I'm coding Golang.
 
-<!--Link to my resume ["Junior Java Developer"](https://drive.google.com/file/d/1W01MjjeC53auEhHJ4AdGJm6SrWAgCVTq/view)-->
+Link to my resume ["Java Developer"](https://drive.google.com/file/d/1C1jdbcCLQmxIk9YJ2-db3O9LInJQnFWr/view?usp=sharing)
 
 Open to work (ready for relocate)
 
